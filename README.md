@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rigved29
+- 👋 Hi, I’m Rigved
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript and ReactJS
 - 💞️ I’m looking to collaborate on Frontend development projects
