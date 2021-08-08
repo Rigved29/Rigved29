@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rigved
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript and ReactJS
-- 💞️ I’m looking to collaborate on Frontend development projects
+- 👀 I’m interested in Web technologies
+- 🌱 I’m comfortable with HTML,CSS and javascript(including advanced concepts of JS like OOPs,Asyncronous JS etc).
+- 🌱 I’m currently learning ReactJS.
+- 💞️ I’m looking to collaborate in Frontend development projects.
 - 📫 You can reach me through e-mail : rigved.shrivastava232@gmail.com
 
 <!---
