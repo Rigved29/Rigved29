@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rigved</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 💬 Ask me about **react,Javascript**
+- 💬 Ask me about **react,Javascript,DSA,HTML,CSS,C++**,
 
 - 📫 How to reach me **rigved.shrivastava232@gmail.com**
 
