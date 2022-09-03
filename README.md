@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rigved.shrivastava232@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14g1wzye8391h9sR4a0qHfefVjZ63XUim/view?usp=sharing](https://drive.google.com/file/d/14g1wzye8391h9sR4a0qHfefVjZ63XUim/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rigved-shrivastava-7055671a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rigved-shrivastava-7055671a5" height="30" width="40" /></a>
@@ -30,7 +28,7 @@
 - 👀 I’m interested in Web technologies
 - 🌱 I’m comfortable with HTML,CSS,javascript(including advanced concepts of JS like OOPs,Asyncronous JS etc) and ReactJS.
 - 🌱 I’m currently learning Nodejs.
-- 💞️ I’m looking to collaborate in Frontend development projects.
+- 💞️ I’m looking to collaborate in MERN projects.
 - 📫 You can reach me through e-mail : rigved.shrivastava232@gmail.com
 
 Rigved29/Rigved29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
