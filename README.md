@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rigved</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 💬 Ask me about **react,Javascript,DSA,HTML,CSS,C++**,
+- 💬 Ask me about **reactJS, Javascript, nodeJS, expressJS, mongoDB, DSA, HTML, CSS, C++**,
 
-- 📫 How to reach me **rigved.shrivastava232@gmail.com**
+- 📫 How to reach me **rigvedshrivastava@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,10 +26,9 @@
 
 <!-- - 👋 Hi, I’m Rigved
 - 👀 I’m interested in Web technologies
-- 🌱 I’m comfortable with HTML,CSS,javascript(including advanced concepts of JS like OOPs,Asyncronous JS etc) and ReactJS.
-- 🌱 I’m currently learning Nodejs.
+- 🌱 I’m comfortable with HTML,CSS,javascript(including advanced concepts of JS like OOPs,Asyncronous JS etc) and ReactJS,Nodejs,expressJS,mongoDB.
 - 💞️ I’m looking to collaborate in MERN projects.
-- 📫 You can reach me through e-mail : rigved.shrivastava232@gmail.com
+- 📫 You can reach me through e-mail : rigvedshrivastava@gmail.com
 
 Rigved29/Rigved29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
