@@ -25,9 +25,8 @@
 
 
 <!-- - 👋 Hi, I’m Rigved
-- 👀 I’m interested in Web technologies
+- 👀 I’m interested in software development
 - 🌱 I’m comfortable with HTML,CSS,javascript(including advanced concepts of JS like OOPs,Asyncronous JS etc) and ReactJS,Nodejs,expressJS,mongoDB.
-- 💞️ I’m looking to collaborate in MERN projects.
 - 📫 You can reach me through e-mail : rigvedshrivastava@gmail.com
 
 Rigved29/Rigved29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
