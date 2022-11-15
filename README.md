@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rigved</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 💬 Ask me about **reactJS, Javascript, nodeJS, expressJS, mongoDB, DSA, HTML, CSS, C++**,
 
