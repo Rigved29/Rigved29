@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rigved Shrivastava</h1>
-<h3 align="center">Passionate Software Developer with 2.5 Years of Experience</h3>
+<h3 align="center">Passionate Frontend Developer with 2.5 Years of Experience</h3>
 
 <p align="center">
   <a href="mailto:rigvedshrivastava@gmail.com">
