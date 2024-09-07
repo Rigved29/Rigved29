@@ -19,7 +19,7 @@
 - **APIs:** REST, GraphQL
 - **Testing:** Jest
 - **Tools:** Git, Postman, Firebase
-- **Other:** Data Structures & Algorithms (DSA)
+- **Other:** Micro Frontend Architecture, Data Structures & Algorithms (DSA)
 
 ---
 
