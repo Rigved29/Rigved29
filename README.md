@@ -28,9 +28,9 @@
   <a href="https://linkedin.com/in/rigved-shrivastava-7055671a5" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="mailto:rigvedshrivastava@gmail.com">
+<!--   <a href="mailto:rigvedshrivastava@gmail.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Gmail" height="30" width="40"/>
-  </a>
+  </a> -->
 </p>
 
 ---
